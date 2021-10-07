@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle_Snap">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gradle_Snap</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gradleJSF.main" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="gradleJSF.main/web/Web Gradle : gradleJSF-1.0-SNAPSHOT.war" />
+    </root>
+  </artifact>
+</component>
